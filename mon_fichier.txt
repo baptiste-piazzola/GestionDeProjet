@@ -1,2 +1,7 @@
 Ligne utilisateur original conflit
+
 Modification part 8.3 merge des branches
+
+Modification branche new feature par Paul Londres
+
+
